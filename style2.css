@@ -1,0 +1,13 @@
+h1, h2 {color:rgb(158, 152, 152); margin:2%}
+.greentea {color:rgb(49, 160, 49)}
+.ice {color: blue}
+.blue {color:purple}
+.cran {color:red}
+#berry {color:pink}
+.header {background-image:url(/050422/beach.jpg) }
+.footer {background-color:rgb(164, 164, 159);}
+.content {background-color:rgb(149, 149, 82) ;}
+img {
+    width:50px;
+    height: 100px;
+}
